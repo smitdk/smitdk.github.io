@@ -1,0 +1,13 @@
+.Nav{
+  text-align: center;
+}
+.body{
+  font-family: 'Rubik';font-size: 22px;
+}
+
+.btn-info{
+  background-color: #555794;
+}
+.btn-info:hover {
+  background-color: #7F82B2;
+}
